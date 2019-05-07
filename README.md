@@ -1,10 +1,12 @@
 # -Challenge-Security-Caesar-cipher-
-Encoding:
+#Encoding:
 - use: "encoding.cpp"
 - input: "en-input.dat"
 - key: from keyboard
 - output: "en-output.dat"
-Decoding:
+
+
+#Decoding:
 - use: "decoding.cpp"
 - input: "en-output.dat"
 - key: from keyboard
